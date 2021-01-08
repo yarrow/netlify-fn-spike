@@ -1,0 +1,25 @@
+{
+  "name": "netlify-fn-spike",
+  "version": "1.0.0",
+  "description": "Spike code to call netlify functions",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "elm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarrow/netlify-fn-spike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarrow/netlify-fn-spike/issues"
+  },
+  "homepage": "https://github.com/yarrow/netlify-fn-spike#readme",
+  "devDependencies": {
+    "create-elm-app": "^5.22.0"
+  }
+}
